@@ -1,0 +1,7 @@
+cd: To change the working directory.
+pwd: To display the current working directory's absolute path.
+ls: To list directory contents.
+cat: To display contents of a file to terminal
+grep: To search for patterns in a file.
+less: To view contents of a file one screen at a time.
+ps -ef: To get a detailed overview of all processes running on my machine.
